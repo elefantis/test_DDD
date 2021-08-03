@@ -1,0 +1,5 @@
+class DomainEvent {
+    constructor() {
+        
+    }
+}
